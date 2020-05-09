@@ -1,0 +1,5 @@
+E:\nil\nil\nilsweb\NilWeb\NilWeb\bin\NilWeb.dll
+E:\nil\nil\nilsweb\NilWeb\NilWeb\bin\NilWeb.pdb
+E:\nil\nil\nilsweb\NilWeb\NilWeb\obj\Debug\NilWeb.dll
+E:\nil\nil\nilsweb\NilWeb\NilWeb\obj\Debug\NilWeb.pdb
+E:\nil\nil\nilsweb\NilWeb\NilWeb\obj\Debug\NilWeb.csprojResolveAssemblyReference.cache
